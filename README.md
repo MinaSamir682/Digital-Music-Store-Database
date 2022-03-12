@@ -12,13 +12,3 @@ Four slides
 One visualization per slide
 A 1-2 sentence explanation of each slide
 The SQL query used to create the data used in the visualization.
-
-## Project Submission
-To submit your project, please do the following:
-
-Review your project against the project Rubric. Reviewers will use this to evaluate your work.
-Create your slides with whatever presentation software you'd like (e.g. Google Slides, PowerPoint, Keynote, etc.).
-In order to review your presentation, you will need to save your slides as a PDF. You can do this from within Google Slides by selecting File > Download as > PDF Document.
-
-Create a separate text file with each of the SQL queries used to create the visualizations.
-Save the presentation as a PDF and the SQL queries in a text file(.txt) in the same folder.
