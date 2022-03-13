@@ -8,7 +8,7 @@ We are now on the portion of the project I create a presentation to show and dis
 
 The presentation includes:
 
-Four slides
-One visualization per slide
-A 1-2 sentence explanation of each slide
-The SQL query used to create the data used in the visualization.
+* Four slides
+* One visualization per slide
+* A 1-2 sentence explanation of each slide
+* The SQL query used to create the data used in the visualization.
