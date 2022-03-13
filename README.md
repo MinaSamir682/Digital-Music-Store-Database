@@ -1,12 +1,12 @@
 # SQL Project Digital Music Store Database
 Udacity - Data Foundations Nanodegree
 ## Project Introduction
-In this project, you will query the Chinook Database. The Chinook Database holds information about a music store. For this project, you will be assisting the Chinook team with understanding the media in their store, their customers and employees, and their invoice information. To assist you in the queries ahead, the schema for the Chinook Database is provided
+In this project, We will query the Chinook Database. The Chinook Database holds information about a music store. For this project, We will be assisting the Chinook team with understanding the media in their store, their customers and employees, and their invoice information. To assist you in the queries ahead, the schema for the Chinook Database is provided
 
 ### Presentations
-You are now on the portion of the project you will need to submit to a reviewer. To pass this project follow the below instructions to create a presentation.
+We are now on the portion of the project I create a presentation to show and discuss the insights I have found.
 
-Your presentation should include:
+The presentation includes:
 
 Four slides
 One visualization per slide
