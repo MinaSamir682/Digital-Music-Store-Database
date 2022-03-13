@@ -12,3 +12,7 @@ The presentation includes:
 * One visualization per slide
 * A 1-2 sentence explanation of each slide
 * The SQL query used to create the data used in the visualization.
+
+### Database Structure and tables
+
+![database](database.PNG)
